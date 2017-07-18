@@ -16,4 +16,4 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * Hackernews.com <- http://logo.clearbit.com/hackernewsnews.ml
 * Rotendahl.dk
 * Heroku.com
-* RT -> http://roosterteeth.com/
+* RT -> roosterteeth.com

@@ -8,10 +8,10 @@
 
     <style>
       body {
-        background-color: #000000;
+        background-color: black;
       }
 
-      .logo:hover {
+      img:hover {
         box-shadow: 7px 7px #204871;
       }
 
@@ -35,11 +35,14 @@
             <div class="col-xs-3 col-lg-2">
               <div class="logo">
                 <a href="http://{{link.url}}">
+                  <img class="img-circle "
                   {% if link.logo == link.url  %}
-                    <img src="https://logo.clearbit.com/{{link.url}}">
+                    src="https://logo.clearbit.com/{{link.url}}"
                   {% else %}
-                    <img src="{{link.logo}}" height="128" width="128">
+                    src="{{link.logo}}" height="128" width="128"
                   {% endif %}
+                  >
+                  <br>
                   <br>
                   {{link.name}}
                 </a>

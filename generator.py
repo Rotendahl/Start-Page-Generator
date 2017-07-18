@@ -24,7 +24,6 @@ def readLinks():
                 fields[field] = link if fields[field] == '' else fields[field]
 
             links.append(fields)
-            print(fields)
     return links
 
 
