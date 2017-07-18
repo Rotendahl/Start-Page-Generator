@@ -10,7 +10,7 @@ This file list the links that will be shown, see the readme for syntax.
 * Reddit.com
 * KU -> kunet.dk <- http://logo.clearbit.com/ku.dk
 * Linkedin.com
-* CP -> codingpirates.dk
+* CP -> codingpirates.dk <- http://kortlink.dk/qxz5
 * Netflix.com
 * Hackernews.com <- http://logo.clearbit.com/hackernewsnews.ml
 * Rotendahl.dk

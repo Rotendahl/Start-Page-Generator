@@ -31,13 +31,14 @@
 <body>
     <div class="container-fluid">
         <div class="row  justify-content-md-center">
+          {% for link in links %}
             <div class="col-xs-3 col-lg-2">
               <div class="logo">
                 <a href="http://{{link.url}}">
                   {% if link.logo == link.url  %}
                     <img src="https://logo.clearbit.com/{{link.url}}">
                   {% else %}
-                    <img src="{{link.logo}}">
+                    <img src="{{link.logo}}" height="128" width="128">
                   {% endif %}
                   <br>
                   {{link.name}}
