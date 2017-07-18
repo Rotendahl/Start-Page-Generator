@@ -1,0 +1,16 @@
+This file list the links that will be shown, see the readme for syntax.
+
+* Facebook.com
+                Youtube gives different logo depending on case, the fuck?
+* Youtube.com <- http://logo.clearbit.com/youtube.com
+* Github.com
+* Version2.dk
+* Xkcd.com <- http://logo.clearbit.com/xkcd.ru
+* Twitter.com
+* Reddit.com
+* KU -> kunet.dk <- http://logo.clearbit.com/ku.dk
+* Linkedin.com
+* CP -> codingpirates.dk
+* Netflix.com
+* Hackernews.com <- http://logo.clearbit.com/hackernewsnews.ml
+* Rotendahl.dk
