@@ -20,7 +20,7 @@ The links are specified in `links.txt` and has the following syntax.
 The name and logo are optional, and are meant for sites where you want a shorter
 name or a different logo. The logos are taken from
 [clearbit.com/logo](https://clearbit.com/logo) if they don't have the logo it can be
-manually specified. See the links file for examples
+manually specified. See the [links](links.txt) file for examples
 
 Once the links have bin specified you run `python generator.py` which produces
 a file called `start.html` that contains your start page.
