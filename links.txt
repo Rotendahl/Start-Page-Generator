@@ -20,3 +20,4 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * RT -> roosterteeth.com
 * dilbert.com
 * What-if? ->  what-if.xkcd.com <- http://kortlink.dk/qxzk 
+* runkeeper.com
