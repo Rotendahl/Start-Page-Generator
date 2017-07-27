@@ -3,7 +3,7 @@ If no logo is specified they are taken from https://clearbit.com/logo
 
 * FB -> Facebook.com
                 Youtube gives different logo depending on case, the fuck?
-* Youtube.com <- http://logo.clearbit.com/youtube.com
+* Youtube.com <- http://kortlink.dk/qyp6 
 * Github.com
 * Version2.dk
 * Nyheder -> dr.dk
