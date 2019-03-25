@@ -29,5 +29,5 @@ def readLinks():
 
 html = open('template.html', 'r').read()
 template = Template(html)
-with open('start.html', 'w') as out:
+with open('index.html', 'w') as out:
     out.write(template.render({'links' : readLinks()}))

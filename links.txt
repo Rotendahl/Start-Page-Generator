@@ -2,22 +2,19 @@ This file list the links that will be shown, see the readme for syntax.
 If no logo is specified they are taken from https://clearbit.com/logo
 
 * FB -> Facebook.com
-                Youtube gives different logo depending on case, the fuck?
-* Youtube.com <- http://kortlink.dk/qyp6 
+* bolius.dk
+* Youtube.com
 * Github.com
-* Version2.dk
-* Nyheder -> dr.dk
+* Nyheder -> dr.dk <- https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/14925549_1607270609575926_3532791384464488505_n.png?_nc_cat=105&_nc_ht=scontent-frx5-1.xx&oh=3aa73e93d0ab25199f3df4d1475efefb&oe=5D02F6F8
 * Xkcd.com <- http://logo.clearbit.com/xkcd.ru
 * Twitter.com
 * Reddit.com
 * KU -> kunet.dk <- http://logo.clearbit.com/ku.dk
-* Linkedin.com
+* LinkedIn -> linkedin.com <- https://s18955.pcdn.co/wp-content/uploads/2017/05/LinkedIn.png
 * CP -> codingpirates.dk <- http://kortlink.dk/qxz5
 * Netflix.com
-* Hackernews.com <- http://logo.clearbit.com/hackernewsnews.ml
-* Rotendahl.dk
+* Rotendahl.dk <- https://www.rotendahl.dk/assets/img/mig.png
 * Heroku.com
 * RT -> roosterteeth.com
 * dilbert.com
-* What-if? ->  what-if.xkcd.com <- http://kortlink.dk/qxzk 
-* runkeeper.com
+* What-if? ->  what-if.xkcd.com <- http://kortlink.dk/qxzk
