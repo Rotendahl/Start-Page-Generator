@@ -3,7 +3,7 @@ If no logo is specified they are taken from https://clearbit.com/logo
 
 * FB -> Facebook.com
 * bolius.dk
-* Youtube.com
+* youtube.com/feed/subscriptions/ <- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/1024px-YouTube_social_white_circle_%282017%29.svg.png
 * Github.com
 * Nyheder -> dr.dk <- https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/14925549_1607270609575926_3532791384464488505_n.png?_nc_cat=105&_nc_ht=scontent-frx5-1.xx&oh=3aa73e93d0ab25199f3df4d1475efefb&oe=5D02F6F8
 * Xkcd.com <- http://logo.clearbit.com/xkcd.ru
@@ -15,6 +15,9 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * Netflix.com
 * Rotendahl.dk <- https://www.rotendahl.dk/assets/img/mig.png
 * Heroku.com
-* RT -> roosterteeth.com
+* CircleCi.com
+* Coveralls.io
 * dilbert.com
-* What-if? ->  what-if.xkcd.com <- http://kortlink.dk/qxzk
+* hbonordic.com <- https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png
+* What-if? ->  what-if.xkcd.com
+* amazon.co.uk

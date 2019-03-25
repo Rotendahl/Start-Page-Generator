@@ -15,6 +15,7 @@ def readLinks():
                 link = link.split('->')
                 fields['name'] = link[0]
                 link = link[1]
+
             if "<-" in link:
                 link = link.split('<-')
                 fields['logo'] = link[1]
@@ -23,6 +24,7 @@ def readLinks():
             for field in fields:
                 fields[field] = link if fields[field] == '' else fields[field]
 
+            fields['name'] = fields['name'].split('.')[0]
             links.append(fields)
     return links
 
