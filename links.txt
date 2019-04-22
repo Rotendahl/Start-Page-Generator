@@ -8,10 +8,10 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * Nyheder -> dr.dk <- https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/14925549_1607270609575926_3532791384464488505_n.png?_nc_cat=105&_nc_ht=scontent-frx5-1.xx&oh=3aa73e93d0ab25199f3df4d1475efefb&oe=5D02F6F8
 * Xkcd.com <- http://logo.clearbit.com/xkcd.ru
 * Twitter.com
-* Reddit.com
+* reddit.com <- https://www.redditstatic.com/new-icon.png
 * KU -> kunet.dk <- http://logo.clearbit.com/ku.dk
 * LinkedIn -> linkedin.com <- https://s18955.pcdn.co/wp-content/uploads/2017/05/LinkedIn.png
-* CP -> codingpirates.dk <- http://kortlink.dk/qxz5
+* CP -> codingpirates.dk <- https://genbib.dk/sites/gentofte.ddbcms.dk/files/title_image/news/coding_pirates.png
 * Netflix.com
 * Rotendahl.dk <- https://www.rotendahl.dk/assets/img/mig.png
 * Heroku.com
