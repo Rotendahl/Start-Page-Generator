@@ -9,6 +9,7 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * Xkcd.com <- https://logo.clearbit.com/xkcd.ru
 * Data Science -> towardsdatascience.com
 * Twitter.com
+* Medium.com
 * reddit.com <- https://www.redditstatic.com/new-icon.png
 * KU -> kunet.dk <- https://logo.clearbit.com/ku.dk
 * LinkedIn -> linkedin.com <- https://s18955.pcdn.co/wp-content/uploads/2017/05/LinkedIn.png
