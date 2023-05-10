@@ -1,0 +1,50 @@
+cabal-version:      2.4
+name:               Start-Page-Generator
+version:            0.1.0.0
+synopsis:           An overengineered start page generator
+homepage:           https://github.com/Rotendahl/Start-Page-Generator
+author:             Benjamin Rotendahl
+maintainer:         benjamin@rotendahl.dk
+
+extra-source-files:
+    README.md
+
+library
+    ghc-options: -Wall
+    build-depends:
+        base ^>=4.16.4.0,
+        text,
+        parsec
+    hs-source-dirs:   lib
+    default-language: Haskell2010
+    exposed-modules:
+        SiteTypes,
+        TemplateEngine,
+        FavoritesParser,
+        SiteMapper
+
+executable Start-Page-Generator
+    ghc-options: -Wall
+    main-is:          Main.hs
+    hs-source-dirs:   app
+    default-language: Haskell2010
+    build-depends:
+        base ^>=4.16.4.0,
+        Start-Page-Generator
+
+test-suite test
+    ghc-options: -Wall
+    default-language: Haskell2010
+    type:             exitcode-stdio-1.0
+    hs-source-dirs:   test
+    main-is:          Spec.hs
+    other-modules:
+        FavoritesParserSpec,
+        TemplateEngineSpec,
+        ParsedSites
+    build-depends:
+        base ^>=4.16.4.0,
+        HUnit ^>= 1.6,
+        hspec ==2.*,
+        Start-Page-Generator
+    build-tool-depends: hspec-discover:hspec-discover == 2.*

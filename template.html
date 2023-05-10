@@ -1,61 +1,15 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <meta charset="utf-8">
+  <head>
+    <meta charset="utf-8" />
     <title>Start Page</title>
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="variables.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
 
-    <link href="https://rotendahl.dk/assets/img/favicons/apple-icon.png" rel="apple-touch-icon" />
-    <link href="https://rotendahl.dk/assets/img/favicons/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
-    <link href="https://rotendahl.dk/assets/img/favicons/apple-icon-167x167.png" rel="apple-touch-icon" sizes="167x167" />
-    <link href="https://rotendahl.dk/assets/img/favicons/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
-
-    <style>
-      body {
-        background-color: #222222;
-      }
-
-      img:hover {
-        box-shadow: 7px 7px #204871;
-      }
-
-      .logo{
-        text-align: center;
-        border-radius: 10%;
-        padding: 5px;
-        margin: 10px;
-      }
-      img {
-        background-color: white;
-        max-width: 100%;
-        max-height: 100%;
-      }
-    </style>
-</head>
-
-<body>
-    <div class="container-fluid">
-        <div class="row  justify-content-md-center">
-          {% for link in links %}
-            <div class="col-xs-3 col-lg-2">
-              <div class="logo">
-                <a href="https://{{link.url}}">
-                  <img class="img-circle "
-                  {% if link.logo == link.url  %}
-                    src="https://logo.clearbit.com/{{link.url}}"
-                  {% else %}
-                    src="{{link.logo}}" height="128" width="128"
-                  {% endif %}
-                  >
-                  <br>
-                  <br>
-                  {{link.name}}
-                </a>
-              </div>
-          </div>
-          {% endfor %}
-        </div>
-    </div>
-</body>
+  <body>
+    <div id="container">
+			<!-- sites -->
+		</div>
+	</body>
 </html>

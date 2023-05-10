@@ -2,16 +2,20 @@ This file list the links that will be shown, see the readme for syntax.
 If no logo is specified they are taken from https://clearbit.com/logo
 
 * FB -> Facebook.com
-* youtube.com/feed/subscriptions/ <- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/1024px-YouTube_social_white_circle_%282017%29.svg.png
+* youtube.com/feed/subscriptions/
 * Github.com
-* Nyheder -> dr.dk <- https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/14925549_1607270609575926_3532791384464488505_n.png?_nc_cat=105&_nc_ht=scontent-frx5-1.xx&oh=3aa73e93d0ab25199f3df4d1475efefb&oe=5D02F6F8
-* Xkcd.com <- https://logo.clearbit.com/xkcd.ru
+* Nyheder -> dr.dk
+* Xkcd.com
 * Data Science -> towardsdatascience.com
 * Twitter.com
 * Medium.com
-* reddit.com <- https://www.redditstatic.com/new-icon.png
-* LinkedIn -> linkedin.com <- https://s18955.pcdn.co/wp-content/uploads/2017/05/LinkedIn.png
-* CP -> codingpirates.dk <- https://genbib.dk/sites/gentofte.ddbcms.dk/files/title_image/news/coding_pirates.png
+* Reddit.com
+* LinkedIn -> linkedin.com
 * Rotendahl.dk <- https://www.rotendahl.dk/assets/img/mig.png
-* What-if? ->  what-if.xkcd.com
-* amazon.de
+* amazon.de <- https://clearbit.com/logo/amazon.com
+* Jira <- https://monthio.atlassian.net/jira/your-work
+* GPT <- https://chat.openai.com
+* Ops <- https://grafana.monthio.com/d/ew54Gu9Mz/screen-2-system-health?orgId=1
+* Pipelines <- https://dev.azure.com/monthio/monthio/_build?view=folders
+* Azure <- https://portal.azure.com/#home
+* Moogle <- https://github.com/search?type=code&q=org%3Amonthio
