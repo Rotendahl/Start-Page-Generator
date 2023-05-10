@@ -1,0 +1,7 @@
+An empty list
+
+
+with only comments
+
+
+should return an empty list

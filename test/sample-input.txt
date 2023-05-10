@@ -1,0 +1,11 @@
+
+Some comments
+Other comments
+
+* Site A -> site-a.com <- site-a.com/logo.png
+Some Other comment
+* Site B -> site-b.com
+* site-c.com
+* http://site-d.com
+* https://sub.domain.site.com/with/path
+* https://sub.domain.site.com/with/path <- https://sub.domain.site.com/with/path/logo.png
