@@ -1,0 +1,32 @@
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  max-width: 1024px;
+  margin: auto;
+}
+
+img:hover {
+  box-shadow: 7px 7px var(--shadow);
+}
+
+img {
+  max-width: 100%;
+  border-radius: 100px;
+  max-height: 100%;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+a {
+  text-decoration: none;
+  color: var(--text);
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px;
+  display: inline-block;
+  max-width: 100px;
+}

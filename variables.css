@@ -1,0 +1,22 @@
+:root {
+  --dark-mode-text: #F8F8F3;
+  --dark-mode-bg: #282A36;
+  --dark-mode-shadow: #3E404B;
+
+  --light-mode-text: #111111;
+  --light-mode-bg: #FDF6E3;
+  --light-mode-shadow: #606060;
+
+
+  --text: var(--light-mode-text);
+  --bg: var(--light-mode-bg);
+  --shadow: var(--light-mode-shadow);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: var(--dark-mode-text);
+    --bg: var(--dark-mode-bg);
+    --shadow: var(--dark-mode-shadow);
+  }
+}
