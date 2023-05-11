@@ -1,0 +1,15 @@
+name: Play
+run-name: "Running for commit: ${{ github.sha }}"
+on: [push, pull_request, workflow_dispatch]
+
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: haskell/actions/setup@v2
+    - name: Build
+      run: cabal build
+    - name: Test
+      run: cabal test
