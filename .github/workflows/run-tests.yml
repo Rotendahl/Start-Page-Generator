@@ -13,3 +13,17 @@ jobs:
       run: cabal build
     - name: Test
       run: cabal test
+
+  hlint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: 'Set up HLint'
+      uses: haskell/actions/hlint-setup@v2
+
+    - name: 'Run HLint'
+      uses: haskell/actions/hlint-run@v2
+      with:
+        path: .
+        fail-on: warning
