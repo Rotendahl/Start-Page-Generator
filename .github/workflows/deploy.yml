@@ -1,4 +1,4 @@
-name: Play
+name: Deploy to GitHub Pages
 run-name: "Running for commit: ${{ github.sha }}"
 on:
   push:
