@@ -14,4 +14,4 @@ main =
 
     case generated of
       Left parseError -> putStrLn "Error parsing favorites file" >> print parseError
-      Right html -> writeFile "index.html" html
+      Right html -> writeFile "out/index.html" html
