@@ -12,10 +12,10 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * Reddit.com
 * LinkedIn -> linkedin.com
 * Rotendahl.dk <- https://www.rotendahl.dk/assets/img/mig.png
-* amazon.de <- https://clearbit.com/logo/amazon.com
-* Jira <- https://monthio.atlassian.net/jira/your-work
-* GPT <- https://chat.openai.com
-* Ops <- https://grafana.monthio.com/d/ew54Gu9Mz/screen-2-system-health?orgId=1
-* Pipelines <- https://dev.azure.com/monthio/monthio/_build?view=folders
-* Azure <- https://portal.azure.com/#home
-* Moogle <- https://github.com/search?type=code&q=org%3Amonthio
+* amazon.de <- https://logo.clearbit.com//amazon.com
+* Jira -> https://monthio.atlassian.net/jira/your-work <- https://logo.clearbit.com//jira.com
+* GPT -> https://chat.openai.com
+* Ops -> https://grafana.monthio.com/d/ew54Gu9Mz/screen-2-system-health?orgId=1
+* Pipelines -> https://dev.azure.com/monthio/monthio/_build?view=folders
+* Azure -> https://portal.azure.com/#home
+* Moogle -> https://github.com/search?type=code&q=org%3Amonthio
