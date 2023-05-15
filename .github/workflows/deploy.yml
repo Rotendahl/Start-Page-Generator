@@ -1,0 +1,21 @@
+name: Play
+run-name: "Running for commit: ${{ github.sha }}"
+on:
+  push:
+    branches:
+     - master
+
+
+jobs:
+  publish:
+    concurrency: ci-${{ github.ref }}
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: haskell/actions/setup@v2
+    - name: Build
+      run: cabal run Start-Page-Generator
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+          folder: out
