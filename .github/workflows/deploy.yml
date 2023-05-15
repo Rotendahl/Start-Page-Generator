@@ -15,6 +15,9 @@ jobs:
     - uses: haskell/actions/setup@v2
     - name: Build
       run: cabal run Start-Page-Generator
+    - uses: browser-actions/setup-chrome@v1
+    - name: Create screenshot
+      run:  --headless --disable-gpu --screenshot=out/example.png -window-size=1280,720  ./out/index.html
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4
       with:
