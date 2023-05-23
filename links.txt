@@ -3,7 +3,7 @@ If no logo is specified they are taken from https://clearbit.com/logo
 
 * FB -> Facebook.com
 * youtube.com/feed/subscriptions/
-* Github.com
+* Github.com <- https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 * Nyheder -> dr.dk
 * Xkcd.com
 * Data Science -> towardsdatascience.com
@@ -18,4 +18,4 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * Ops -> https://grafana.monthio.com/d/ew54Gu9Mz/screen-2-system-health?orgId=1
 * Pipelines -> https://dev.azure.com/monthio/monthio/_build?view=folders
 * Azure -> https://portal.azure.com/#home
-* Moogle -> https://github.com/search?type=code&q=org%3Amonthio
+* Moogle -> https://github.com/search?type=code&q=org%3Amonthio <- https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
