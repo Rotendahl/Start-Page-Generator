@@ -11,7 +11,7 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * Medium.com
 * Reddit.com
 * LinkedIn -> linkedin.com
-* Rotendahl.dk <- https://www.rotendahl.dk/assets/img/mig.png
+* Rotendahl.dk <- https://rotendahl.dk/assets/logo.png
 * amazon.de <- https://logo.clearbit.com//amazon.com
 * Jira -> https://monthio.atlassian.net/jira/your-work <- https://logo.clearbit.com//jira.com
 * GPT -> https://chat.openai.com
