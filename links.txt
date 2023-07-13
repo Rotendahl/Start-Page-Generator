@@ -10,7 +10,7 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * Twitter.com
 * Medium.com
 * Reddit.com
-* LinkedIn -> linkedin.com
+* LinkedIn -> linkedin.com <- https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png
 * Rotendahl.dk <- https://rotendahl.dk/assets/logo.png
 * amazon.de <- https://logo.clearbit.com//amazon.com
 * Jira -> https://monthio.atlassian.net/jira/your-work <- https://logo.clearbit.com//jira.com
