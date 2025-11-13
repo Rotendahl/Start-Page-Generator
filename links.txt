@@ -1,5 +1,5 @@
 This file list the links that will be shown, see the readme for syntax.
-If no logo is specified they are taken from https://clearbit.com/logo
+If no logo is specified they are taken from https://logo.dev
 
 * FB -> Facebook.com
 * youtube.com/feed/subscriptions/
@@ -12,8 +12,8 @@ If no logo is specified they are taken from https://clearbit.com/logo
 * Reddit.com
 * LinkedIn -> linkedin.com <- https://img.freepik.com/premium-vector/linkedin-icon_488108-5.jpg
 * Rotendahl.dk <- https://rotendahl.dk/assets/logo.png
-* amazon.de <- https://logo.clearbit.com//amazon.com
-* Jira -> https://monthio.atlassian.net/jira/your-work <- https://logo.clearbit.com//jira.com
+* amazon.de <- https://img.logo.dev/amazon.com?token=pk_CRpvkunsQi2ojaUrvTgQZA
+* Jira -> https://monthio.atlassian.net/jira/your-work <- https://img.logo.dev/jira.com?token=pk_CRpvkunsQi2ojaUrvTgQZA
 * GPT -> https://chat.openai.com
 * Ops -> https://grafana.monthio.com/d/ew54Gu9Mz/screen-2-system-health?orgId=1
 * Pipelines -> https://dev.azure.com/monthio/monthio/_build?view=folders

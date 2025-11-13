@@ -17,6 +17,6 @@ mapSite (parsedName, parsedUrl, parsedLogo) =
     replacementLogo =
       Url
         { protocol = "https://",
-          hostname = "logo.clearbit.com",
-          path = "/" ++ hostname parsedUrl
+          hostname = "img.logo.dev",
+          path = "/" ++ hostname parsedUrl ++ "?token=pk_CRpvkunsQi2ojaUrvTgQZA"
         }

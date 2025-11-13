@@ -42,12 +42,12 @@ spec = do
             }
         ]
         `shouldBe` "<div>\n"
-          ++ "\t<a href=\"https://site-a.com/\">\n"
+          ++ "\t<a href=\"https://site-a.com\">\n"
           ++ "\t\t<img src=\"https://site-a.com/logo.png\" />\n"
           ++ "\t\t<p>site a</p>\n"
           ++ "\t</a>\n"
           ++ "\t<a href=\"https://site-b.com/logo.png\">\n"
-          ++ "\t\t<img src=\"https://site-b.com/\" />\n"
+          ++ "\t\t<img src=\"https://site-b.com\" />\n"
           ++ "\t\t<p>site b</p>\n"
           ++ "\t</a>\n"
           ++ "\n<div>\n"

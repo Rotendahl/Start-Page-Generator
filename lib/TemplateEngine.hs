@@ -17,7 +17,10 @@ linkTag Site {url = u, displayName = name, logo = l} =
     ++ "</p>\n"
     ++ "</a>\n"
   where
-    fullLink uri = protocol uri ++ hostname uri ++ "/" ++ path uri
+    fullLink uri = protocol uri ++ hostname uri ++ addSlash (path uri)
+    addSlash [] = []
+    addSlash p@('/':_) = p
+    addSlash p = '/' : p
 
 generateLinks :: Favorites -> String
 generateLinks = concatMap linkTag
