@@ -18,6 +18,7 @@ mapSite (parsedName, parsedUrl, parsedLogo) =
       Url
         { protocol = "https://",
           hostname = "img.logo.dev",
-          path = "" ++ hostname parsedUrl
-          ++ "?token=pk_CRpvkunsQi2ojaUrvTgQZA"
+          path =
+            hostname parsedUrl
+              ++ "?token=pk_CRpvkunsQi2ojaUrvTgQZA"
         }
