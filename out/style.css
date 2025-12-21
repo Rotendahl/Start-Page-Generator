@@ -30,3 +30,9 @@ a {
   display: inline-block;
   max-width: 100px;
 }
+
+footer {
+  text-align: center;
+  margin: 40px;
+  font-weight: 15;
+}
