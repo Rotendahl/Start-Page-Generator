@@ -3,19 +3,20 @@ If no logo is specified they are taken from https://clearbit.com/logo
 
 * FB -> Facebook.com
 * youtube.com/feed/subscriptions/
+* Sprint -> https://monthio.atlassian.net/jira/software/c/projects/PT/boards/55
 * Github.com <- https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 * Nyheder -> dr.dk
 * Xkcd.com
 * Data Science -> towardsdatascience.com
-* Twitter.com
 * Medium.com
 * Reddit.com
 * LinkedIn -> linkedin.com
 * Rotendahl.dk <- https://rotendahl.dk/assets/logo.png
-* amazon.de
 * Jira -> https://monthio.atlassian.net/jira/your-work
+* Backlog -> https://monthio.atlassian.net/jira/software/c/projects/PT/boards/55/backlog
 * GPT -> https://chat.openai.com
 * Ops -> https://grafana.monthio.com/d/ew54Gu9Mz/screen-2-system-health?orgId=1
 * Pipelines -> https://dev.azure.com/monthio/monthio/_build?view=folders
 * Azure -> https://portal.azure.com/#home
 * Moogle -> https://github.com/search?type=code&q=org%3Amonthio <- https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+* RoadMap -> https://monthio.atlassian.net/jira/polaris/projects/PD/ideas/view/8279390
